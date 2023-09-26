@@ -4,16 +4,16 @@
 
 ![view final]()
 
-- [Demo Project]()
+- 🔗 [Demo Project]()
 
-- Developed by Mehrsa Mohajeri
+- 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
-- Created: 2023-09-12
+- 📆 Created: 2023-09-12
 
-- Technologies Used: HTML, CSS, SASS, Flex
+- ✔️ Technologies Used: HTML, CSS, SASS, Flex
 
 - Hooks Used: useState 
 
-- Role: Front-End
+- 💥 Role: Front-End
 
-- How to reach me: With My [INSTAGRAM](https://www.instagram.com/mehrsa_mohajeri_developer) And [LINKEDIN](https://www.linkedin.com/in/mehrsa_mohajeri_developer)
+- 📲 How to reach me: With My [INSTAGRAM](https://www.instagram.com/mehrsa_mohajeri_developer) And [LINKEDIN](https://www.linkedin.com/in/mehrsa_mohajeri_developer)
