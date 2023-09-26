@@ -10,12 +10,12 @@
 
 - Developed by Mehrsa Mohajeri
 
-- Created - 2023-09-12
+- Created: 2023-09-12
 
-- Technologies Used - HTML, CSS, SASS, Flex
+- Technologies Used: HTML, CSS, SASS, Flex
 
-- Hooks Used : useState 
+- Hooks Used: useState 
 
-- Role - Front-End
+- Role: Front-End
 
-- How to reach me : with my [instagram](https://www.instagram.com/mehrsa_mohajeri_developer) and [linkedin](https://www.linkedin.com/in/mehrsa_mohajeri_developer)
+- How to reach me: with my [INSTAGRAM](https://www.instagram.com/mehrsa_mohajeri_developer) and [LINKEDIN](https://www.linkedin.com/in/mehrsa_mohajeri_developer)
