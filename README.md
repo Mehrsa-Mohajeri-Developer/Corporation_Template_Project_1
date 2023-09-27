@@ -4,7 +4,7 @@
 
 ![view-2](https://github.com/Mehrsa-Mohajeri-Developer/Corporation_Template/assets/145048780/4691a0e3-de3c-4930-a549-700572e387a2)
 
-![view-3](https://github.com/Mehrsa-Mohajeri-Developer/Corporation_Template/assets/145048780/9dbe84c1-3f06-4112-a3f6-8afd39a7ca42)
+![view-3](https://github.com/Mehrsa-Mohajeri-Developer/Corporation_Template/assets/145048780/d450e85a-433b-4c04-bbdd-3ec35f95aa37)
 
 ![view-4](https://github.com/Mehrsa-Mohajeri-Developer/Corporation_Template/assets/145048780/a6f48a69-6144-4a5b-a923-c7a202dfd494)
 
