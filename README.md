@@ -1,4 +1,4 @@
-# Corporation_Template
+# Corporation_Template_Project_1
 
 **If you want to design a website for a company or organization, you can use my code and enjoy the process ♥️🏢**
 
